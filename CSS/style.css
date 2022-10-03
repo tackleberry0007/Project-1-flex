@@ -57,3 +57,28 @@ div.navigation-bar-right
 	width: 33%;
 	background: coral;
 }
+body.top-slider-1
+{
+	height: 750;
+	width: 100%;
+	background: purple;
+
+}
+.top-slider-1-A
+{
+	height: 750;
+	width: 100%;
+	background: purple;
+}
+body.top-slider-1-B
+{
+	height: 750;
+	width: 100%;
+	background: yellow;
+}
+body.top-slider-1-C
+{
+	height: 750;
+	width: 100%;
+	background: green;
+}
