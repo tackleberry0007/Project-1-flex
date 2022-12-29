@@ -5,6 +5,7 @@ div.topbar
 	width: 100%;
 	background: grey;
 	display: flex;
+	background: transparent;
 	
 }
 div .topbar-left-items 
@@ -14,6 +15,7 @@ div .topbar-left-items
 	background: blue;
 	text-align:right;
 	line-height: 50px;
+	background: transparent;
 
 	
 
@@ -64,21 +66,7 @@ body.top-slider-1
 	background: purple;
 
 }
-.top-slider-1-A
-{
-	height: 750;
-	width: 100%;
-	background: purple;
+.a{
+	color: black;
 }
-body.top-slider-1-B
-{
-	height: 750;
-	width: 100%;
-	background: yellow;
-}
-body.top-slider-1-C
-{
-	height: 750;
-	width: 100%;
-	background: green;
-}
+
